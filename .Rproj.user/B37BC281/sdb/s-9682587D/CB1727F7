@@ -1,0 +1,17 @@
+{
+    "contents" : "1+1\n",
+    "created" : 1443792555947.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "2067990389",
+    "id" : "CB1727F7",
+    "lastKnownWriteTime" : 1443851203,
+    "path" : "~/output/R/first.r",
+    "project_path" : "first.r",
+    "properties" : {
+        "tempName" : "Untitled1"
+    },
+    "source_on_save" : false,
+    "type" : "r_source"
+}
